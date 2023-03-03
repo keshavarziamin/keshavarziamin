@@ -3,6 +3,3 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavarziamin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-I have tried to organize all my repositories 
-  embedded system communication:[link](https://github.com/emsyscomm) 
