@@ -5,7 +5,7 @@
 ### Embedded software · C/C++ · IoT
 
 [![GitHub followers](https://img.shields.io/github/followers/keshavarziamin?style=for-the-badge&logo=github&color=24292f)](https://github.com/keshavarziamin?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-keshavarzi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavarziamin/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavarzi.amin@gmail.com)
 
 </div>
