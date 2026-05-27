@@ -2,7 +2,7 @@
 
 # Hi, I'm Amin Keshavarzi
 
-### Embedded software · C/C++ · CMake · CI/CD · IoT
+### Embedded software · C/C++ · IoT
 
 [![GitHub followers](https://img.shields.io/github/followers/keshavarziamin?style=for-the-badge&logo=github&color=24292f)](https://github.com/keshavarziamin?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-keshavarzi)
@@ -16,7 +16,7 @@
 
 I build **firmware and developer tooling** for embedded systems — from sensor drivers and CMake-based firmware to Dockerized CI and custom build pipelines.
 
-- Focus areas: **STM32**, **ESP32**, **Raspberry Pi**, temperature/humidity sensing, OTA-ready architectures  
+- Focus areas: Design Hardware and developing firmware 
 - I care about **reproducible builds**, **tests**, and **clean C APIs**  
 - Contributor at [**MCUBoost**](https://github.com/MCUBoost) — open embedded projects and shared tooling  
 
