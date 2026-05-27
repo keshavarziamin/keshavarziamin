@@ -50,21 +50,9 @@ while (1) {
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=keshavarziamin&show_icons=true&theme=darcula&include_all_commits=true&count_private=true&hide_border=true"
-    alt="GitHub stats"
-    height="165"
-  />
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=keshavarziamin&theme=darcula&hide_border=true"
     alt="GitHub streak"
     height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavarziamin&layout=compact&theme=darcula&hide_border=true&langs_count=8"
-    alt="Top languages"
   />
 </p>
 
