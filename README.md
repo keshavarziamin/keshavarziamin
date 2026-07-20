@@ -90,7 +90,7 @@ while (1) {
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/keshavarziamin/keshavarziamin/output/activity-graph.svg"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=keshavarziamin&theme=react-dark&hide_border=true&area=true"
     alt="Contribution graph"
   />
 </p>
