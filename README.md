@@ -6,6 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/keshavarziamin?style=for-the-badge&logo=github&color=24292f)](https://github.com/keshavarziamin?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavarziamin/)
+[![Telegram](https://img.shields.io/badge/Telegram-@MCUBoostCH-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MCUBoostCH)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavarzi.amin@gmail.com)
 
 </div>
@@ -16,9 +17,9 @@
 
 I build **firmware and developer tooling** for embedded systems — from sensor drivers and CMake-based firmware to Dockerized CI and custom build pipelines.
 
-- Focus areas: Design Hardware and developing firmware 
-- I care about **reproducible builds**, **tests**, and **clean C APIs**  
-- Contributor at [**MCUBoost**](https://github.com/MCUBoost) — open embedded projects and shared tooling  
+- Focus areas: hardware design and firmware development
+- I care about **reproducible builds**, **tests**, and **clean C APIs**
+- I share embedded projects and updates on [**@MCUBoostCH**](https://t.me/MCUBoostCH)
 
 ```c
 while (1) {
@@ -65,22 +66,19 @@ while (1) {
 
 ---
 
-## Featured Opern Source Projects
+## Featured open source projects
 
 | Project | Description |
 |---------|-------------|
-| [**MCUBoost**](https://github.com/MCUBoost) | Embedded software organization — multi-target firmware and shared workflows |
-| [**THS**](https://github.com/MCUBoost/THS) | Temperature & humidity sensor — CMake firmware, `bpm` build tool, Docker CI, GoogleTest |
-
+| [**THS**](https://github.com/keshavarziamin/THS) | Temperature & humidity sensor — CMake firmware, `bpm` build tool, Docker CI, GoogleTest |
 
 <p align="center">
-  <a href="https://github.com/MCUBoost/THS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCUBoost&repo=THS&theme=darcula&hide_border=true" alt="THS repo card" />
+  <a href="https://github.com/keshavarziamin/THS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshavarziamin&repo=THS&theme=darcula&hide_border=true" alt="THS repo card" />
   </a>
 </p>
 
 ---
-
 
 ## Activity
 
