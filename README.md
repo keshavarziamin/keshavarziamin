@@ -51,7 +51,7 @@ while (1) {
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=keshavarziamin&theme=darcula&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=keshavarziamin&theme=darcula&hide_border=true"
     alt="GitHub streak"
     height="165"
   />
@@ -59,8 +59,14 @@ while (1) {
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshavarziamin&theme=github_dark"
-    alt="Profile details"
+    src="https://github-readme-stats.shion.dev/api?username=keshavarziamin&show_icons=true&theme=darcula&hide_border=true"
+    alt="GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=keshavarziamin&layout=compact&theme=darcula&hide_border=true"
+    alt="Top languages"
+    height="165"
   />
 </p>
 
@@ -74,7 +80,7 @@ while (1) {
 
 <p align="center">
   <a href="https://github.com/keshavarziamin/THS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshavarziamin&repo=THS&theme=darcula&hide_border=true" alt="THS repo card" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=keshavarziamin&repo=THS&theme=darcula&hide_border=true" alt="THS repo card" />
   </a>
 </p>
 
