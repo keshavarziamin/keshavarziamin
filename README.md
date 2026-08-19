@@ -101,6 +101,4 @@ while (1) {
 
 **Thanks for stopping by — feel free to star, fork, or open an issue on any repo.**
 
-![Profile views](https://komarev.com/ghpvc/?username=keshavarziamin&color=3eb4f8&style=flat-square&label=Profile+views)
-
 </div>
